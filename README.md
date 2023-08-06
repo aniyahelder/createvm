@@ -70,7 +70,7 @@ Let the VM create it's own new Vnet, leave the subnet and public IP default, the
 <br />
 
 <p>
-<img src="https://i.imgur.com/7qRVqk8.png"/>
+<img src="https://i.imgur.com/jiQDthx.png"/>
 </p>
 <p>
 After the Windows VM deployment is complete, go back to the Virtual Machine page and start creating a new VM.
