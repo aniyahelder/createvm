@@ -38,7 +38,7 @@ First, log in to your Azure portal https://portal.azure.com/ (Assuming you alrea
 <br />
 
 <p>
-<img src="https://i.imgur.com/U00aXOd.png"/>
+<img src="https://i.imgur.com/rrhr4yR.png"/>
 </p>
 <p>
 Next, create a new resource group, I named mine "RG-LAB-02", select whatever region that is closest to you. You can find the Resource Groups page (or any page in Azure) by searching for it in the searchbar at the top. Click Review + create, and then hit create.
