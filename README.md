@@ -86,7 +86,7 @@ Set the resource group to the same one as the Windows VM, then name the VM, I na
 <br />
 
 <p>
-<img src="https://i.imgur.com/KYFsdFn.png"/>
+<img src="https://i.imgur.com/pXrG5k1.png"/>
 </p>
 <p>
 Now set the size of the VM, just use the same size as the previous one. Set the Authentication type to Password, then set the username and password of the VM.
