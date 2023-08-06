@@ -78,7 +78,7 @@ After the Windows VM deployment is complete, go back to the Virtual Machine page
 <br />
 
 <p>
-<img src="https://i.imgur.com/zGyrGwn.png"/>
+<img src="https://i.imgur.com/HWfCtvW.png"/>
 </p>
 <p>
 Set the resource group to the same one as the Windows VM, then name the VM, I named mine "VM2-UBUNTU". Make sure the region is set to the same as the last VM, select Ubuntu Server 20.04 LTS as your image, and use the x64 architecture.
