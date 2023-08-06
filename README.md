@@ -128,10 +128,10 @@ Now we are finished, but if you you are unable to see the topology and get a red
 <br />
 
 <p>
-<img src="https://i.imgur.com/aicFPBL.png"/>
+<img src="https://i.imgur.com/E9WhNaP.png"/>
 </p>
 <p>
-Go to the resource groups page and click on the "NetworkWatcherRG" resource group, and then click on the resource "NetworkWatcher_xyz".
+Go to the resource groups page and click on the "NetworkWatcherRG" resource group, and then click on the resource "NetworkWatcher_eastus".
 </p>
 <br />
 
