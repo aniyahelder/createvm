@@ -46,7 +46,7 @@ Next, create a new resource group, I named mine "RG-LAB-02", select whatever reg
 <br />
 
 <p>
-<img src="https://i.imgur.com/z9N5Lnd.png"/>
+<img src="https://i.imgur.com/mBedzXM.png"/>
 </p>
 <p>
 Now go to the Virtual Machines page and create a new VM. I named mine "VM1-WINDOWS10", and make sure your VM's region is set to the same as your Resource Group and at the very least that is in the same region as the next VM that we will create, double check this right before you create the VM. Select Windows 10 Pro as the image.
