@@ -95,7 +95,7 @@ Once you've done that, hit next until you get to the networking section.
 <br />
 
 <p>
-<img src="https://i.imgur.com/P3rdouQ.png"/>
+<img src="https://i.imgur.com/IWjmOf0.png"/>
 </p>
 <p>
 Select the Vnet as the same one as the Windows VM, mine is "VM1-WINDOWS10-vnet". Leave everything else default, just make sure everything looks like the screenshot above. Then hit review and create.
