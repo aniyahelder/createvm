@@ -136,7 +136,7 @@ Go to the resource groups page and click on the "NetworkWatcherRG" resource grou
 <br />
 
 <p>
-<img src="https://i.imgur.com/vi5PTwv.png"/>
+<img src="https://i.imgur.com/fWXNt1q.png"/>
 </p>
 <p>
 Hit the "move" button next to resource group.
