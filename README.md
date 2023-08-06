@@ -157,7 +157,7 @@ Congratulations, you made it to the end of this lab! Now you can either delete t
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZttsXKR.png"/>
+<img src="https://i.imgur.com/2ZHs2zD.png"/>
 </p>
 <p>
 To delete the resource group, just go back to the resource groups page, click on the resource group, click delete resource group, and type/copy paste the resource group's name to confirm, and then click delete.
