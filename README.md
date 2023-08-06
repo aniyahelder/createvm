@@ -30,7 +30,7 @@ This tutorial is designed to teach beginners how to create VMs and setup a Vnet 
 <h2>Full Visual Walkthrough</h2>
 
 <p>
-<img src="https://i.imgur.com/iEMJNac.png"/>
+<img src="https://i.imgur.com/buHJH42.png"/>
 </p>
 <p>
 First, log in to your Azure portal https://portal.azure.com/ (Assuming you already have an account with a subscription, but if you don't have one yet check the pre-requisites)
