@@ -103,7 +103,7 @@ Select the Vnet as the same one as the Windows VM, mine is "VM1-WINDOWS10-vnet".
 <br />
 
 <p>
-<img src="https://i.imgur.com/cfTtFxY.png"/>
+<img src="https://i.imgur.com/9YblwA7.png"/>
 </p>
 <p>
 Now we will try to view the network topology, to do this go to the Network Watcher page.
