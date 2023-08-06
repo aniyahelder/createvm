@@ -62,7 +62,7 @@ Now select the size and specs of the VM, I suggest selecting one with over 2GB o
 <br />
 
 <p>
-<img src="https://i.imgur.com/zGLBhIv.png"/>
+<img src="https://i.imgur.com/PS9QM2K.png"/>
 </p>
 <p>
 Let the VM create it's own new Vnet, leave the subnet and public IP default, then click review and create.
