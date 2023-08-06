@@ -54,7 +54,7 @@ Now go to the Virtual Machines page and create a new VM. I named mine "VM1-WINDO
 <br />
 
 <p>
-<img src="https://i.imgur.com/7aM2MkO.png"/>
+<img src="https://i.imgur.com/zBjOdTb.png"/>
 </p>
 <p>
 Now select the size and specs of the VM, I suggest selecting one with over 2GB of RAM or else it will just be way too slow (I just selected 2 CPUs and 16GB RAM). Then set the username and password, I highly suggest taking note of these. After that hit the check box under Licensing, and then hit next until you get to the networking section.
