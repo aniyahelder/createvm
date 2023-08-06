@@ -111,7 +111,7 @@ Now we will try to view the network topology, to do this go to the Network Watch
 <br />
 
 <p>
-<img src="https://i.imgur.com/2H1mHwK.png"/>
+<img src="https://i.imgur.com/lgvLLrE.png"/>
 </p>
 <p>
 Click on "Topology".
