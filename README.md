@@ -119,7 +119,7 @@ Click on "Topology".
 <br />
 
 <p>
-<img src="https://i.imgur.com/w1osZHS.png"/>
+<img src="https://i.imgur.com/3lYjlAv.png"/>
 </p>
 <p>
 Select the resource group and Vnet that correspond to the ones we just created, and now we can see a visual representation of the network we just made!
