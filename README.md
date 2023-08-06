@@ -144,7 +144,7 @@ Hit the "move" button next to resource group.
 <br />
 
 <p>
-<img src="https://i.imgur.com/xLnxt4L.png"/>
+<img src="https://i.imgur.com/IYG5oZ7.png"/>
 </p>
 <p>
 Select the resource group that the VMs are in, mine is "RG-LAB-02". Then hit next, it will then check to see if the resource is movable (it will be), and then wait a few minutes as it will take a while. Then get to the review section and apply the move. Again, this will take a few minutes.
