@@ -1,5 +1,5 @@
 <p align="center">
-<img 👨‍💻src="https://i.imgur.com/0NJwExP.png" alt="Azure Network Watcher Topology"/>
+<img 👨‍💻src=" "https://i.imgur.com/0NJwExP.png" alt="Azure Network Watcher Topology"/>
 </p>
 
 <h1>How to Setup VMs and a Virtual Network in Azure</h1>
